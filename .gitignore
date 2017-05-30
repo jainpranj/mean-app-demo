@@ -1,0 +1,10 @@
+*/node_modules/
+*/bower_components/
+*/coverage/
+frontend/.sass-cache/
+frontend/.idea/
+frontend/.tmp/
+frontend/dist/
+
+
+
